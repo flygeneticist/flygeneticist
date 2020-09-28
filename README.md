@@ -1,14 +1,14 @@
-### Hi there, I'm Kevin - aka [flygeneticist][website] 👋
+### Hi there, I'm Kevin - aka flygeneticist 👋
 
 [![website](https://img.shields.io/website?label=grumpygoatstudio.com&style=for-the-badge&url=https%3A%2F%2Fgrumpygoatstudio.com)](https://grumpygoatstudio.com)
 
 
 ## I'm a Husband, Developer, and Teacher!
 
-- 🔭 Currently my I am building a web development workshop for underprivilaged students here in the Philippines 🇵🇭.
-- 🌱 I’m working on getting better with Rust 🦀 & React.
-- 💪 2020 Goals: Taking time for daily reflections.
-- ⚡ Fun fact: I love to cook and enjoy working on our small farm.
+- 🔭 Currently my I am creating a web development workshop for underprivilaged students here in the Philippines 🇵🇭
+- 🌱 I’m working on getting better with Rust 🦀 & React
+- 💪 2020 Goals: Taking time for daily reflections
+- ⚡ Fun fact: I love to cook and enjoy working on our small farm
 
 ### Connect with me:
 [<img align="left" alt="grumpygoatstudio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
