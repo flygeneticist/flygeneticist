@@ -5,10 +5,10 @@
 
 ## I'm a Husband, Developer, and Teacher!
 
-- 🔭 Currently I am creating a web development workshop for underprivilaged students here in the Philippines 🇵🇭
+- 🔭 Currently I am creating a web development workshop for underprivilaged students in the Philippines 🇵🇭
 - 🌱 I’m working on getting better with Rust 🦀 & React
 - 💪 2020 Goals: Taking time for daily reflections
-- ⚡ Fun fact: I love to cook and enjoy working on our small farm
+- ⚡ Fun fact: I love to cook and enjoy hiking
 
 ### Connect with me:
 [<img align="left" alt="grumpygoatstudio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
