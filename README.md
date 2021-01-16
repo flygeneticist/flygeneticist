@@ -8,7 +8,7 @@
 - 🔭 Currently I am tutoring students on web development
 - 🌱 I’m working on getting better with TypeScript
 - 💪 2021 Goals: Take time for daily reflections
-- ⚡ Fun fact: I love to cook and enjoy hiking
+- ⚡ Fun fact: I love to cook and enjoy hiking 
 
 ### Connect with me:
 [<img align="left" alt="grumpygoatstudio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
