@@ -1,10 +1,12 @@
-### Hi there, I'm Kevin - aka flygeneticist 👋
+### Hi there, I'm Kevin 👋
 
 ## I'm a Husband, Developer, and Teacher!
 
-- 🌱 I’m working on getting better with Rust parallelism and using WASM
-- 💪 2023 Goals: Take some time for daily reflections
+- 🌱 I’m working on getting better with C as part focusing more on systems/low-level programming. Might try to play around with Zig too, as it looks cool. Lastly, continuing to love working with and in Rust (for web dev + HTMX).
+- 💪 2024/5 Goals: Back to the CS basics and systems programming focus + mor Rust!
 - ⚡ Fun fact: I love to cook and enjoy hiking
+
+**UPDATE:** After being totally away from this account, while working with Rust in a startup for 2 years, I've decided to stay off it. Much of my past personal projects/repos have all been moved over to my new account on Codeberg.org: https://codeberg.org/kevinkeller. I'll consider mirroring some projects to this account (as needed) and will keep this account open in case future work or collabs require a github account for contributing. Catch ya around! :)
 
 <br />
 
